@@ -13,8 +13,11 @@ numpy
 jupyter
 python-language-server
 jupyter-lsp
-jupyter_contrib_nbextensions
 Faker
 pyarrow
 matplotlib
 locust
+pytest
+behave
+assertpy
+
